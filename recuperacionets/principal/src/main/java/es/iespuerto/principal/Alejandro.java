@@ -41,4 +41,11 @@ public class Alejandro {
     public Alejandro(String nom, String ap1, String ap2) {
 
     }
+
+    /**
+     * Metodo que realiza la validacion de las propiedades de la clase
+     */
+    public void validarNombre() {
+
+    }
 }
